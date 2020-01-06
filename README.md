@@ -1,4 +1,4 @@
-## OSDR **Open source dataset resources**
+## OSDR **(Open source dataset resources)**
 ---------------------------------------
 
 * [1996 English Broadcast News Speech (HUB4)](https://catalog.ldc.upenn.edu/LDC97S44)
