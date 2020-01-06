@@ -327,8 +327,6 @@
 
 * [The York Ear Model (YEM) and the York 3D Ear Dataset](https://www-users.cs.york.ac.uk/~nep/research/YEM/)
 
-* [UZH-FPV Drone Racing Dataset](http://rpg.ifi.uzh.ch/uzh-fpv.html)
-
 * [The Human Mortality Database](https://www.mortality.org/)
 
 * [TIMIT Acoustic-Phonetic Continuous Speech Corpus](https://catalog.ldc.upenn.edu/LDC93S1)
@@ -342,6 +340,8 @@
 * [University of Michigan North Campus Long-Term Vision and LIDAR Dataset](http://robots.engin.umich.edu/SoftwareData/NCLT)
 
 * [UPNA Synthetic Head Pose Database](http://www.unavarra.es/gi4e/databases/shpdb)
+
+* [UZH-FPV Drone Racing Dataset](http://rpg.ifi.uzh.ch/uzh-fpv.html)
 
 * [VGG Human Pose Estimation datasets](https://www.robots.ox.ac.uk/~vgg/data/pose/)
 
