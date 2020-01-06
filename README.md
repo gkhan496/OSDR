@@ -362,3 +362,5 @@ Open source dataset resources
 * [OU-ISIR Biometric Database](http://www.am.sanken.osaka-u.ac.jp/BiometricDB/index.html)
 
 * [Brute-Force Dataset](https://github.com/duyetdev/bruteforce-database)
+
+* [CORGIS: The Collection of Really Great, Interesting, Situated Datasets](https://think.cs.vt.edu/corgis/python/index.html?embed=False)
