@@ -349,11 +349,11 @@
 
 * [VQA - Visual Question Answering](https://visualqa.org/)
 
-* [Yelp Open Dataset](https://www.yelp.com/dataset)
-
 * [WorldClim - Global Climate Data](http://worldclim.org/version2)
 
 * [World Values Survey](http://www.worldvaluessurvey.org/wvs.jsp)
+
+* [Yelp Open Dataset](https://www.yelp.com/dataset)
 
 * [YouTube-BoundingBoxes Dataset](https://research.google.com/youtube-bb/)
 
