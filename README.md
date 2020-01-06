@@ -78,6 +78,8 @@
 
 * [Co-occurrence of beaked whale strandings and naval sonar in the Mariana Islands, Western Pacific](https://datadryad.org/stash/dataset/doi:10.5061/dryad.7wm37pvnp)
 
+* [CORGIS: The Collection of Really Great, Interesting, Situated Datasets](https://think.cs.vt.edu/corgis/python/index.html?embed=False)
+
 * [Core50: A new Dataset and Benchmark for Continuous Object Recognition](https://vlomonaco.github.io/core50/)
 
 * [CVonline: The Evolving, Distributed, Non-Proprietary, On-Line Compendium of Computer Vision](http://homepages.inf.ed.ac.uk/rbf/CVonline/)
@@ -358,5 +360,4 @@
 * [YouTube-BoundingBoxes Dataset](https://research.google.com/youtube-bb/)
 
 * [YouTube Faces DB](http://www.cs.tau.ac.il/~wolf/ytfaces/)
-
 
