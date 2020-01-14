@@ -82,6 +82,8 @@
 
 * [Core50: A new Dataset and Benchmark for Continuous Object Recognition](https://vlomonaco.github.io/core50/)
 
+* [CSE-CIC-IDS2018](https://www.unb.ca/cic/datasets/ids-2018.html)
+
 * [CVonline: The Evolving, Distributed, Non-Proprietary, On-Line Compendium of Computer Vision](http://homepages.inf.ed.ac.uk/rbf/CVonline/)
 
 * [Data for MATLAB hackers](https://cs.nyu.edu/~roweis/data.html)
@@ -156,6 +158,8 @@
 
 * [House3D](https://github.com/facebookresearch/House3D)
 
+* [HTTP DATASET CSIC 2010](https://www.isi.csic.es/dataset/)
+
 * [Human Pose Evaluator Dataset](https://www.robots.ox.ac.uk/~vgg/data/pose_evaluation/)
 
 * [Hyperspectral Database](http://icvl.cs.bgu.ac.il/hyperspectral/)
@@ -169,6 +173,8 @@
 * [India Human Development Survey-II (IHDS-II), 2011-12 (ICPSR 36151)](https://www.icpsr.umich.edu/icpsrweb/ICPSR/studies/36151)
 
 * [Intrinsic Images in the Wild](http://opensurfaces.cs.cornell.edu/publications/intrinsic/)
+
+* [JHU-ISI Gesture and Skill Assessment Working Set](https://cirl.lcsr.jhu.edu/research/hmm/datasets/jigsaws_release/)
 
 * [Joint Attention for Autonomous Driving (JAAD) Dataset](http://data.nvision2.eecs.yorku.ca/JAAD_dataset/)
 
@@ -350,6 +356,8 @@
 * [VoxCeleb - A large scale audio-visual dataset of human speech](https://www.robots.ox.ac.uk/~vgg/data/voxceleb/)
 
 * [VQA - Visual Question Answering](https://visualqa.org/)
+
+* [Web-Hacking Dataset for the Cyber Criminal Profiling](http://ocslab.hksecurity.net/Datasets/web-hacking-profiling)
 
 * [WorldClim - Global Climate Data](http://worldclim.org/version2)
 
